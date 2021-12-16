@@ -5,5 +5,5 @@ This repository includes:
 - Raw data in .csv and .xlsx formats with metadata as a featured sheet
 - Metadata in .docx format
 - Annotated R Code for Statistical analyses as an .Rmd file
-- Written report in .docx format 
-- Figures and Images as .jpg files 
+- Written report in .docx and .pdf format 
+- Figures and Images as .jpg files, named as they appear in my written report
